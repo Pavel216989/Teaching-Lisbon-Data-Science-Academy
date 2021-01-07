@@ -1,3 +1,5 @@
+# NOTE: This learning Unit will only be available after 11.01.2021, as the academy is still running, and I don't want to share my exercises solution before the deadline
+
 # Big Learning Unit 15 - Model CSI
 
 ## What is in this BLU?
