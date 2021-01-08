@@ -1,12 +1,9 @@
-# NOTE: This learning Unit will only be available after 11.01.2021
-The academy is still running, and I don't want to share my exercises solution before the deadline
+## NOTE: This learning unit will be updates after 10.01.2021
+This BLU is the students version (without the exercise solution).
+
+As the students are still solving the exercise, I can only upload the solution after the deadline.
 
 # Big Learning Unit 15 - Model CSI
-
-## Note:
-That's the students version of BLU. It will be replaced with the instructor's version after 10.01.2021.
-
-The students are still doing the BLU, so I don't want to publish the solution before they finish.
 
 ## What is in this BLU?
 
