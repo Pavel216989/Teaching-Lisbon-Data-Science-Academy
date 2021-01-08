@@ -1,6 +1,6 @@
-# LDSA teaching repository.
+# LDSA teaching repository
 
-This repository contains learning materials I created for students at the [Lisbon Data Science Academy.](https://www.lisbondatascience.org/)
+This repository contains learning materials I created for students at the [Lisbon Data Science Academy.](https://www.lisbondatascience.org/).
 
 The LDSA is a non-profit organization dedicated to Data Science, 100% run by volunteers. It is responsible for 2 courses: Data Science Starters Academy which focuses on introductory material for those who want to become entry-level data scientists.
 

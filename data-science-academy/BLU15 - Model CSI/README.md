@@ -1,3 +1,6 @@
+# NOTE: This learning Unit will only be available after 11.01.2021
+The academy is still running, and I don't want to share my exercises solution before the deadline
+
 # Big Learning Unit 15 - Model CSI
 
 ## Note:
@@ -14,7 +17,6 @@ This is the third unit of DS in the Real World specialization. In this learning 
 - Model diagnosing (for performance and client requirements)
 - Calibrating and fixing model problems
 - Redeploying the model
-
 
 ## Additional notes
 Don't forget to install the requirements using the requirements.txt file for this BLU!
